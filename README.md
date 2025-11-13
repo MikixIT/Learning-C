@@ -1,16 +1,10 @@
 # Learning-C
 
-```text
-██╗     ███████╗ █████╗ ██████╗ ███╗  ██╗███╗  ██╗██╗ ██████╗      ██████╗
-██║     ██╔════╝██╔══██╗██╔══██╗████╗ ██║████╗ ██║██║██╔════╝     ██╔════╝
-██║     █████╗  ██║  ██║██████╔╝██╔██╗██║██╔██╗██║██║██║  ███╗    ╚█████╗ 
-██║     ██╔══╝  ██║  ██║██╔══██╗██║╚████║██║╚████║██║██║   ██║     ╚═══██╗
-███████╗███████╗╚█████╔╝██║  ██║██║ ╚███║██║ ╚███║██║╚██████╔╝    ██████╔╝
-╚══════╝╚══════╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚══╝╚═╝ ╚═════╝     ╚═════╝ 
-                 a playground to learn C and understand the machine
+
+                     a playground to learn C and understand the machine
 ```
 
-## 🧪 What Happens Here  
+## 🧪 What Happens Here
 A personal playground to learn C step by step.  
 You compile, you break things, you rebuild.  
 You experiment without fear and discover how computers really think.  
@@ -22,18 +16,18 @@ This repo exists to help me learn C in the most fun, chaotic and visual way poss
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-## 🧠 Goals  
-- Capire come funziona davvero il C  
-- Toccare la memoria, capire puntatori, stack, heap  
-- Fare errori, leggerli, riderci sopra e imparare  
-- Migliorare come developer frontend capendo cosa succede sotto  
-- Perdere la paura del linguaggio “a basso livello”
+## 🧠 Goals
+- Understand how C really works  
+- Learn how memory behaves: pointers, stack, heap  
+- Make mistakes, read them, laugh, improve  
+- Become a stronger frontend developer by understanding the low-level world  
+- Lose the fear of “low-level” programming  
 
-## 🧰 Tools I Use  
-- **CLion** (shortcut dal terminale pronto)  
-- **GCC / Clang** come arena di battaglia  
-- Il terminale come dojo  
-- Tanto caffè  
+## 🧰 Tools I Use
+- **CLion** (with terminal shortcut ready)  
+- **GCC / Clang** as my battle arena  
+- The terminal as my dojo  
+- Coffee, always  
 
 ```text
 ┌───────────────────── ritual.sh ──────────────────────┐
@@ -46,12 +40,12 @@ This repo exists to help me learn C in the most fun, chaotic and visual way poss
 └───────────────────────────────────────────────────────┘
 ```
 
-## 🐉 Topics I Will Explore  
-- Puntatori che non vogliono collaborare  
-- Array che partono da zero e ti guardano strano  
-- Funzioni che restituiscono qualunque cosa tu decida  
-- Memory management che richiede attenzione zen  
-- Il preprocessor, entità caotica  
+## 🐉 Topics I Will Explore
+- Pointers that don’t want to cooperate  
+- Arrays that start at zero and judge you  
+- Functions that return whatever you command  
+- Memory management that requires zen focus  
+- The preprocessor, chaotic entity of C  
 
 ```text
 ┌───────────── MEMORY MAP ─────────────┐
@@ -63,20 +57,20 @@ This repo exists to help me learn C in the most fun, chaotic and visual way poss
 └──────────────────────────────────────┘
 ```
 
-## 🧭 Roadmap  
-- Hello World con stile  
-- Variabili e tipi fondamentali  
-- Loop e controllo del flusso  
-- Puntatori e aritmetica  
-- Structs e organizzazione dati  
-- Funzioni avanzate  
-- Gestione memoria  
-- Micro progetti in C  
+## 🧭 Roadmap
+- Hello World, but cooler  
+- Variables and basic types  
+- Loops and control flow  
+- Pointers and pointer arithmetic  
+- Structs and data organization  
+- Advanced functions  
+- Memory management  
+- Small C projects  
 
-## 🔥 Philosophy  
-Imparare C senza prenderlo troppo sul serio  
-Accettare che sbagliare è parte fondamentale del processo  
-Diventare un dev più completo grazie alla comprensione del low-level  
+## 🔥 Philosophy
+Learn C without taking it too seriously  
+Accept that mistakes are part of the journey  
+Become a more complete developer by learning the low-level foundations  
 
 ## 🚀 Final Words  
 
@@ -89,5 +83,5 @@ Diventare un dev più completo grazie alla comprensione del low-level
    and your segfaults educational
 ```
 
-Benvenuto nel mio viaggio in C.  
-Questo repo è il mio spazio per crescere come developer e capire cosa succede davvero sotto il cofano.  
+Welcome to my journey into C.  
+This repo is my space to grow as a developer and understand what truly happens under the hood.  
