@@ -1,7 +1,7 @@
 # Learning-C
 
 
-                     a playground to learn C and understand the machine
+a playground to learn C and understand the machine
 ```
 
 ## 🧪 What Happens Here
