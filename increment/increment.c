@@ -4,6 +4,7 @@
 //no return that's why "void"
 void increment(void){
     int y = 1;
+    int x = 2;
     y = y + 1;
 
     printf("%d\n", y);
