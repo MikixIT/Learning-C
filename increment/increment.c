@@ -11,6 +11,7 @@ void increment(void){
 }
 
 int main(void){
+
     printf("Hi!\n");
     increment(); //call function
 }
